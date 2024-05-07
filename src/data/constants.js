@@ -8,7 +8,7 @@ export const Bio = {
     description:
       "I am a passionate software engineer who loves to build and create new things, hands-on experience, and profound knowledge in software development. I’m dedicated to leverage my coding experience in application development and enhancing my craftsmanship to deliver efficient, reliable, and secure software solutions",
     github: "https://github.com/vantruongno99",
-    resume:"",
+    resume:"https://drive.google.com/file/d/1ffeJ2fLDNHSCTiODNmM2PDzKoamNbCWB/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/van-truong-phan-39b41b177/"  };
   
   export const skills = [
