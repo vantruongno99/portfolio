@@ -8,7 +8,7 @@ export const Bio = {
     description:
       "I am a passionate software engineer who loves to build and create new things, hands-on experience, and profound knowledge in software development. I’m dedicated to leverage my coding experience in application development and enhancing my craftsmanship to deliver efficient, reliable, and secure software solutions",
     github: "https://github.com/vantruongno99",
-    resume:"https://drive.google.com/file/d/14fy465km5WP_eLW66n86yv93uU2ip7du/view?usp=sharing",
+    resume:"https://drive.google.com/file/d/1WQmRYLgtq_aJ_t1c3Et4wGE7jR9uCZ-T/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/van-truong-phan-39b41b177/"  };
   
   export const skills = [
@@ -173,7 +173,7 @@ export const Bio = {
       desc: `• Responsible for frontend and backend development software product. \n• Engaged directly with clients and stakeholders to gather requirements, driving the design and implementation of modules and services that enhanced a product dedicated to data tracking.\n• Integrated RESTful APIs and used Swagger API for testing purpose into client web applications\n• Perform unit test, automated testing to ensure seamless functionality for client web applications.\n• Successfully deployed web application for production and client’s demo using Digital Ocean and CloudFront.\n• Work in an agile / scrum development environment, making daily report to CTO by technical documentation in daily sprint meetings.`,
       skills: [
         "React",
-        "Node JS",
+        ".NET",
         "Express Js",
         "Digital Ocean",
         "Cloudfront",,
@@ -184,19 +184,28 @@ export const Bio = {
     },
     {
       id: 1,
-      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkwaBKX4ghtUsII4AzSAP8b0_3MC3wsQOXHzmO6Mk9sQ&shttps://res.cloudinary.com/tourhq/image/upload/c_pad,fl_progressive,h_210,q_auto:best,w_208/dj2dkyymoie8d5tkmd8w",
+      img: "https://media.licdn.com/dms/image/D560BAQGOfMTENdznKQ/company-logo_200_200/0/1684933450308/jung_talents_logo?e=1724284800&v=beta&t=DyJZrRlLsJebOAPIONVJUgkeqkjduIkbibXbruFiDMA",
       role: "Web developer",
-      company: "Go West Tour",
-      date: "Nov 2021 - March 2022",
-      desc: `• Collaborated closely with the client to develop a time-sensitive website update
-      • Created simply but highly functional UI using JavaScript, HTML and CSS that allowed clients to make changes menu , manage inventory and visualize all their earning.
-      `,
+      company: "Jung Talents",
+      date: "Nov 2021 - September 2022",
+      desc: `•Developed API endpoints using .NET Core for user authentication services, focused on consistency.
+      • Assisted in the project’s back-end migration process from PHP to C# for future scalability, resulting in a 30%
+      increase in system responsiveness.
+      • Maintained code quality and facilitated collaboration using Git for version control and AWS for continuous
+      integration and deployment pipelines.
+      • Managed Docker deployment for consistent application rollout across environments. Employed xUnit for
+      backend testing to ensure API functionality and reliability.
+      • Deployed application and published PTE in AWS Amplify for front-end automation deployment and build
+      •CI/CD YML connected with GitHub using CircleCI for automation of the process in EC2.`,
       skills: [
-        "HTML",
-        "CSS",
-        "Javascript",
-        "Wordpress",
-        "Google Colab",
+        "React",
+        "Node JS",
+        "NestJs",
+        "AWS",
+        "JavaScript",
+        "TypeScript",
+        "Auth0",
+        "Docker"
       ],
     },
   ];
@@ -218,7 +227,7 @@ export const Bio = {
       id: 0,
       title: "Engagement Technology",
       description:
-        "Working towards technology to improve community engagement",
+        `Designed, developed, and deployed a responsive web application for customer and vendor to interact ,the data is stored in the MySQL database and the website is deployed on Digital Ocean`,
       image:
         "https://engagement-technology.com/assets/logo-C66z4gL4.png",
       tags: [
@@ -231,22 +240,22 @@ export const Bio = {
         "ABN Lookup"
       ],
       category: "Collaboration Project",
-      private: false,
+      private: true,
       webapp: "https://engagement-technology.com/",
     },
     {
       id: 1,
-      title: "Jung Talent",
+      title: "Master PTE",
       description:
-        "Collaborated with a team to create a web application to tests and provides administrators with the ability to create tests and access test results for PTE preparation",
+        `Participated in the commercial project with Jung Talents Team to create an education web application to assist customers to prepare for PTE Exam, using ASP .NET Core, AWS, and TypeScript.`,
       image:
-        "https://rthinh2002.github.io/assets/img/trackgrapes.png",
+        "https://www.jungtalents.com/_next/image?url=%2FPTE-master.png&w=320&q=75",
       tags: [
         ".Net", "Auth0", "Postgres", "React", "Typescript", "Docker"
       ],
       category: "Collaboration Project",
-      private: false,
-      webapp: "https://www.jungtalents.com/",
+      private: true,
+      webapp: "https://www.masterpte.com.au/",
     },
   ];
   
