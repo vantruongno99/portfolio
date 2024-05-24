@@ -189,14 +189,11 @@ export const Bio = {
       company: "Jung Talents",
       date: "Nov 2021 - September 2022",
       desc: `•Developed API endpoints using .NET Core for user authentication services, focused on consistency.
-      • Assisted in the project’s back-end migration process from PHP to C# for future scalability, resulting in a 30%
-      increase in system responsiveness.
-      • Maintained code quality and facilitated collaboration using Git for version control and AWS for continuous
-      integration and deployment pipelines.
-      • Managed Docker deployment for consistent application rollout across environments. Employed xUnit for
-      backend testing to ensure API functionality and reliability.
+      • Assisted in the project’s back-end migration process from PHP to C# for future scalability, resulting in a 30% increase in system responsiveness.
+      • Maintained code quality and facilitated collaboration using Git for version control and AWS for continuous integration and deployment pipelines.
+      • Managed Docker deployment for consistent application rollout across environments. Employed xUnit for backend testing to ensure API functionality and reliability.
       • Deployed application and published PTE in AWS Amplify for front-end automation deployment and build
-      •CI/CD YML connected with GitHub using CircleCI for automation of the process in EC2.`,
+      • CI/CD YML connected with GitHub using CircleCI for automation of the process in EC2.`,
       skills: [
         "React",
         "Node JS",
@@ -236,9 +233,8 @@ export const Bio = {
         "MySQL",
         "Node Js",
         "RESTful API",
-        "Docker",
-        "ABN Lookup"
-      ],
+        "Docker"
+            ],
       category: "Collaboration Project",
       private: true,
       webapp: "https://engagement-technology.com/",
