@@ -9,7 +9,9 @@ export const Bio = {
       "I am a passionate software engineer who loves to build and create new things, hands-on experience, and profound knowledge in software development. I’m dedicated to leverage my coding experience in application development and enhancing my craftsmanship to deliver efficient, reliable, and secure software solutions",
     github: "https://github.com/vantruongno99",
     resume:"https://drive.google.com/file/d/1WQmRYLgtq_aJ_t1c3Et4wGE7jR9uCZ-T/view?usp=sharing",
-    linkedin: "https://www.linkedin.com/in/van-truong-phan-39b41b177/"  };
+    linkedin: "https://www.linkedin.com/in/van-truong-phan-39b41b177/",
+    image : "https://media.licdn.com/dms/image/D5603AQGJODuvnFdMDQ/profile-displayphoto-shrink_800_800/0/1716536666930?e=1721865600&v=beta&t=DAX6RbGX-K6glcm6lyc6IbPtjAiG6UywwbVka6H1VTk"
+  };
   
   export const skills = [
     {
