@@ -8,7 +8,7 @@ export const Bio = {
     description:
       "I am a passionate software engineer who loves to build and create new things, hands-on experience, and profound knowledge in software development. I’m dedicated to leverage my coding experience in application development and enhancing my craftsmanship to deliver efficient, reliable, and secure software solutions",
     github: "https://github.com/vantruongno99",
-    resume:"https://drive.google.com/file/d/1WQmRYLgtq_aJ_t1c3Et4wGE7jR9uCZ-T/view?usp=sharing",
+    resume:"https://drive.google.com/file/d/18b0FSeG0RHhU_a_IYuubtSGVDImcCqXI/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/van-truong-phan-39b41b177/",
     image : "https://media.licdn.com/dms/image/D5603AQGJODuvnFdMDQ/profile-displayphoto-shrink_800_800/0/1716536666930?e=1721865600&v=beta&t=DAX6RbGX-K6glcm6lyc6IbPtjAiG6UywwbVka6H1VTk"
   };
@@ -176,7 +176,8 @@ export const Bio = {
       skills: [
         "React",
         ".NET",
-        "Express Js",
+        "NodeJS",
+        "ExpressJs",
         "Digital Ocean",
         "Cloudfront",,
         "JavaScript",
@@ -198,7 +199,7 @@ export const Bio = {
       • CI/CD YML connected with GitHub using CircleCI for automation of the process in EC2.`,
       skills: [
         "React",
-        "Node JS",
+        "NodeJS",
         "NestJs",
         "AWS",
         "JavaScript",
