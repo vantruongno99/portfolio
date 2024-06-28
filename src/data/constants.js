@@ -205,7 +205,8 @@ export const Bio = {
         "JavaScript",
         "TypeScript",
         "Auth0",
-        "Docker"
+        "Docker",
+        ".NET"
       ],
     },
   ];
