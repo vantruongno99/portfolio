@@ -224,8 +224,23 @@ export const Bio = {
   ];
   
   export const projects = [
+  
     {
       id: 0,
+      title: "Master PTE",
+      description:
+        `Participated in the commercial project with Jung Talents Team to create an education web application to assist customers to prepare for PTE Exam, using ASP .NET Core, AWS, and TypeScript.`,
+      image:
+        "https://www.jungtalents.com/_next/image?url=%2FPTE-master.png&w=320&q=75",
+      tags: [
+        ".Net", "Auth0", "Postgres", "React", "Typescript", "Docker"
+      ],
+      category: "Collaboration Project",
+      private: true,
+      webapp: "https://www.masterpte.com.au/",
+    },
+    {
+      id: 1,
       title: "Engagement Technology",
       description:
         `Designed, developed, and deployed a responsive web application for customer and vendor to interact ,the data is stored in the MySQL database and the website is deployed on Digital Ocean`,
@@ -242,20 +257,6 @@ export const Bio = {
       category: "Collaboration Project",
       private: true,
       webapp: "https://github.com/vantruongno99/Web-Toolkit",
-    },
-    {
-      id: 1,
-      title: "Master PTE",
-      description:
-        `Participated in the commercial project with Jung Talents Team to create an education web application to assist customers to prepare for PTE Exam, using ASP .NET Core, AWS, and TypeScript.`,
-      image:
-        "https://www.jungtalents.com/_next/image?url=%2FPTE-master.png&w=320&q=75",
-      tags: [
-        ".Net", "Auth0", "Postgres", "React", "Typescript", "Docker"
-      ],
-      category: "Collaboration Project",
-      private: true,
-      webapp: "https://www.masterpte.com.au/",
     },
   ];
   
