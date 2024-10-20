@@ -230,7 +230,7 @@ export const Bio = {
       description:
         `Designed, developed, and deployed a responsive web application for customer and vendor to interact ,the data is stored in the MySQL database and the website is deployed on Digital Ocean`,
       image:
-        "https://engagement-technology.com/assets/logo-C66z4gL4.png",
+        "https://ibb.co/tCzrqpS",
       tags: [
         "Javascript",
         "TypeScript",
@@ -241,8 +241,7 @@ export const Bio = {
             ],
       category: "Collaboration Project",
       private: true,
-      webapp: "https://engagement-technology.com/",
-    },
+        },
     {
       id: 1,
       title: "Master PTE",
