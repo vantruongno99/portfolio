@@ -230,7 +230,7 @@ export const Bio = {
       description:
         `Designed, developed, and deployed a responsive web application for customer and vendor to interact ,the data is stored in the MySQL database and the website is deployed on Digital Ocean`,
       image:
-        "https://ibb.co/tCzrqpS",
+        "https://i.ibb.co/w67mShT/logo.png",
       tags: [
         "Javascript",
         "TypeScript",
