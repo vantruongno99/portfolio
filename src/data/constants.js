@@ -187,7 +187,7 @@ export const Bio = {
     },
     {
       id: 1,
-      img: "https://media.licdn.com/dms/image/D560BAQGOfMTENdznKQ/company-logo_200_200/0/1684933450308/jung_talents_logo?e=1724284800&v=beta&t=DyJZrRlLsJebOAPIONVJUgkeqkjduIkbibXbruFiDMA",
+      img: "https://media.licdn.com/dms/image/v2/D5603AQEBtqwPlnd1vg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1680921187838?e=1735171200&v=beta&t=-1f0m7ix7WIqmfaUxQcLjBxGNCfe1Coo-i5XUkA8E-o",
       role: "Web developer",
       company: "Jung Talents",
       date: "Nov 2021 - September 2022",
