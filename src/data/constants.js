@@ -190,7 +190,7 @@ export const Bio = {
       img: "https://media.licdn.com/dms/image/v2/D5603AQEBtqwPlnd1vg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1680921187838?e=1735171200&v=beta&t=-1f0m7ix7WIqmfaUxQcLjBxGNCfe1Coo-i5XUkA8E-o",
       role: "Web developer",
       company: "Jung Talents",
-      date: "Nov 2021 - September 2022",
+      date: "April 2024 - Now",
       desc: `•Developed API endpoints using .NET Core for user authentication services, focused on consistency.
       • Assisted in the project’s back-end migration process from PHP to C# for future scalability, resulting in a 30% increase in system responsiveness.
       • Maintained code quality and facilitated collaboration using Git for version control and AWS for continuous integration and deployment pipelines.
