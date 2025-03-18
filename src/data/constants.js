@@ -10,7 +10,7 @@ export const Bio = {
     github: "https://github.com/vantruongno99",
     resume:"https://drive.google.com/file/d/18b0FSeG0RHhU_a_IYuubtSGVDImcCqXI/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/van-truong-phan-39b41b177/",
-    image : "https://media.licdn.com/dms/image/v2/D5603AQF9anMshBmQhA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1728880074969?e=1741824000&v=beta&t=rVjVvQo-hYr1oVkHJnVFN3x_nd-wPEW13jkhXc5DsMs"
+    image : "https://media.licdn.com/dms/image/v2/D5603AQF9anMshBmQhA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1728880074961?e=1747872000&v=beta&t=kdObPNa4YL7p7lAnjuf3lzWFy4zELmEFcl6MKa1bZ9E"
   };
   
   export const skills = [
