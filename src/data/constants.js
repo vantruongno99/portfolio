@@ -10,7 +10,7 @@ export const Bio = {
     github: "https://github.com/vantruongno99",
     resume:"https://drive.google.com/file/d/18b0FSeG0RHhU_a_IYuubtSGVDImcCqXI/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/van-truong-phan-39b41b177/",
-    image : "https://media.licdn.com/dms/image/v2/D5603AQGMppcJ4mmsfw/profile-displayphoto-shrink_400_400/B56ZYneaW4H0Ag-/0/1744419007841?e=1749686400&v=beta&t=Ca0P1C0QSrbsZQoic7TrqLuv7ZmmAzDPAapvMLbAVNc"
+    image : "https://media.licdn.com/dms/image/v2/D5603AQGMppcJ4mmsfw/profile-displayphoto-shrink_800_800/B56ZYneaW4H0Ac-/0/1744419007857?e=1758153600&v=beta&t=SeA05qBGfaB7MuMZojcjZi7zBASa3twh-O2dkCYUrag"
   };
   
   export const skills = [
@@ -190,7 +190,7 @@ export const Bio = {
       img: "https://media.licdn.com/dms/image/v2/D5603AQEBtqwPlnd1vg/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1680921187838?e=1735171200&v=beta&t=-1f0m7ix7WIqmfaUxQcLjBxGNCfe1Coo-i5XUkA8E-o",
       role: "Web developer",
       company: "Jung Talents",
-      date: "April 2024 - Now",
+      date: "April 2024 - May 2025",
       desc: `•Developed API endpoints using .NET Core for user authentication services, focused on consistency.
       • Assisted in the project’s back-end migration process from PHP to C# for future scalability, resulting in a 30% increase in system responsiveness.
       • Maintained code quality and facilitated collaboration using Git for version control and AWS for continuous integration and deployment pipelines.
